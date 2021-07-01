@@ -1,4 +1,4 @@
-<a href="#"><img width="900" height="center" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="170px"/></a>
+<a href="#"><img width="80%" height="center" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="170px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aaisha</h1>
 <h3 align="center">I'm a Tech enthusiast from India, coding since school.</h3>
