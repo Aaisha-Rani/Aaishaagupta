@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on an **Artificial Intelligent Frame work Model.**
 
-- 🎨 I have worked on **Embedded systems, Atmel microcontrollers, Proteus, , SDLC, Real Time Operating Systems**
+- 🎨 I have worked on **Machine Learning, Artificial Intelligence, Python, Embedded systems, Front end development, Atmel microcontrollers, SDLC, and Real-Time Operating Systems**
 
 - 📫 To reach me **guptaaaisha@yahoo.com**
 
@@ -39,6 +39,10 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/aaisha-gupta-499a5a128/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
+<p align="left">
+
+<a href = "https://twitter.com/aaishae1111"><img src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter"/></a>
 </p>
 
 
