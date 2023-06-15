@@ -42,7 +42,8 @@
 </p>
 <p align="left">
 
-<a href = "https://twitter.com/aaishae1111"><img src="https://icons8.com/icon/119014/twitter"/></a>
+<a href = "https://twitter.com/aaishae1111"><img src="https://img.icons8.com/?size=512&id=119014&format=png" width="40" 
+     height="50"/></a>
 </p>
 
 
