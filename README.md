@@ -6,7 +6,7 @@
 
 ## 🌺 About Me
 
-- 💻 I’m currently working as a Monitoring Team Manager (Data Analyst)
+- 💻 I’m currently working as a Monitoring Team Manager (Data Analytics)
 
 - 🌱 I’m currently working on an **Artificial Intelligent Frame work Model.**
 
