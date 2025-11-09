@@ -6,7 +6,7 @@
 
 ## 🌺 About Me
 
-- 💻 I’m currently working as a Gen AI Engineer
+- 💻 I’m currently working as a Data scientist
 
 - 🌱 I’m currently working on an **Artificial Intelligent Frame work Model.**
 
