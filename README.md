@@ -6,11 +6,11 @@
 
 ## 🌺 About Me
 
-- 💻 I’m currently working as a Monitoring Team Manager (Data Analytics)
+- 💻 I’m currently working as a Gen AI Engineer
 
 - 🌱 I’m currently working on an **Artificial Intelligent Frame work Model.**
 
-- 🎨 I have worked on **Machine Learning, Artificial Intelligence, Python, Embedded systems, Front end development, Atmel microcontrollers**
+- 🎨 I have worked on **Machine Learning, Artificial Intelligence, Python, Embedded systems, Front end development, Gen AI, NLP **
 
 - 📫 To reach me **guptaaaisha@yahoo.com**
 
