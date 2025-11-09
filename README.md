@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on an **Artificial Intelligent Frame work Model.**
 
-- 🎨 I have worked on ** Machine Learning, Artificial Intelligence, Python, Embedded systems, Front end development, Gen AI, NLP **
+- 🎨 I have worked on **Machine Learning, Artificial Intelligence, Python, Embedded systems, Front end development, Gen AI, NLP**
 
 - ⚡ Fun fact **I love Astrophysics, Meditation,Football and discovering new things.**
 
