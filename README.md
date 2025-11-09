@@ -12,8 +12,6 @@
 
 - 🎨 I have worked on **Machine Learning, Artificial Intelligence, Python, Embedded systems, Front end development, Gen AI, NLP **
 
-- 📫 To reach me **guptaaaisha@yahoo.com**
-
 - ⚡ Fun fact **I love Astrophysics, Meditation,Football and discovering new things.**
 
 
